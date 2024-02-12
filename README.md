@@ -27,5 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=doniyor401&show_icons=true&locale=en&layout=compact" alt="doniyor401" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doniyor401&show_icons=true&locale=en" alt="doniyor401" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doniyor401&" alt="doniyor401" /></p>
